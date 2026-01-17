@@ -40,11 +40,12 @@ The dataset is loaded locally using `torchvision.datasets.CIFAR10`.
 ---
 
 ## Training Results
-Epoch 1, Loss: 1.4696
-Epoch 2, Loss: 1.2085
-Epoch 3, Loss: 1.1118
-Epoch 4, Loss: 1.0418
-Epoch 5, Loss: 0.9918
-Test Accuracy: 62.01%
+- Epoch 1, Loss: 1.4696
+- Epoch 2, Loss: 1.2085
+- Epoch 3, Loss: 1.1118
+- Epoch 4, Loss: 1.0418
+- Epoch 5, Loss: 0.9918
+- Test Accuracy: 62.01%
+
 
 
