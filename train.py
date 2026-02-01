@@ -88,3 +88,6 @@ with torch.no_grad():
         correct += (predicted == labels).sum().item()
 
 print(f"Test Accuracy: {100 * correct / total:.2f}%")
+
+torch.save(model.state_dict(), "model.pth")
+print("Model saved as model.pth")
